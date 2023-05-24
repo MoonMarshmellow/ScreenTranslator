@@ -2,7 +2,7 @@
 
 A simple script that captures a part of the screen and translates it to the preferred language by printing it to the console. The translation updates everytime the text on the screen changes. Uses the tesseract OCR library and the translate python package.
 
-**Instalation**
+**Installation**
 
 Clone the code and run main.py. Make sure you have python3 installed. 
 
